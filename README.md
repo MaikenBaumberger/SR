@@ -1,0 +1,1 @@
+This repository contains data, models and scripts used for the study described in the paper "How the landscape influences soil respiration: explaining spatio-temporal patterns with interpretable machine learning".
